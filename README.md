@@ -12,10 +12,7 @@
   <a href="https://www.linkedin.com/in/kalyn-stricklin-46451a279/">
   <img src="https://img.shields.io/badge/LinkedIn-pink?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
   </a>
-</div>
 
-<div>
-  <!--profile viewers-->
+    <!--profile viewers-->
 <img src="https://komarev.com/ghpvc/?username=kalynstricklin&style=flat-square&color=blue" alt=""/>
-
 </div>
