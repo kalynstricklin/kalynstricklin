@@ -40,4 +40,5 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kalynstricklin&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?username=kalynstricklin&theme=vue-dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="Kalyn's Streak"/></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=kalynstricklin&theme=vue-dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="Kalyn's Streak"/></p>
+
