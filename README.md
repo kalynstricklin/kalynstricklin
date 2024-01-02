@@ -22,6 +22,7 @@
   </h1>
 </div>
 
+[![wakatime](https://wakatime.com/badge/user/b5c44ac9-032b-4e67-a6d5-1044b80d90bd.svg)](https://wakatime.com/@b5c44ac9-032b-4e67-a6d5-1044b80d90bd)
 
 ---
 
