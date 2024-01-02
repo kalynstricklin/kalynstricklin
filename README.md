@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
   <div id="header" align="center">
-  <img src="https://media1.giphy.com/media/1u01IRKm3cKUH4GU1U/giphy480p.mp4?cid=ecf05e47a6y180shrdyjqy7de2fwp2epcgyg8osir4ck23d6&ep=v1_videos_search&rid=giphy480p.mp4&ct=v" width="100"/>
+  <video src="https://media1.giphy.com/media/1u01IRKm3cKUH4GU1U/giphy480p.mp4?cid=ecf05e47a6y180shrdyjqy7de2fwp2epcgyg8osir4ck23d6&ep=v1_videos_search&rid=giphy480p.mp4&ct=v" width="100"> <video/>
 </div>
