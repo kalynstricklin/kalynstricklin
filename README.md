@@ -37,4 +37,5 @@
 ### :fire: My Stats :
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kalynstricklin&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kalynstricklin&langs_count=8&layout=compact&theme=vue-dark)](https://github.com/Osalumense)
 [![Kalyn's GitHub stats](https://github-readme-stats.vercel.app/api?username=kalynstricklin&count_private=true&show_icons=true&theme=vue-dark)](https://github.com/Osalumense)
