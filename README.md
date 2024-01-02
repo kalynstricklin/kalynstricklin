@@ -14,5 +14,8 @@
   </a>
 </div>
 
-<!--profile viewers-->
-<img src="https://komarev.com/ghpvs/?username=kalynstricklin&style=flat-square&color=blue" alt=""/>
+<div>
+  <!--profile viewers-->
+<img src="https://komarev.com/ghpvc/?username=kalynstricklin&style=flat-square&color=blue" alt=""/>
+
+</div>
