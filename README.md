@@ -22,7 +22,6 @@
   </h1>
 </div>
 
-[![wakatime](https://wakatime.com/badge/user/b5c44ac9-032b-4e67-a6d5-1044b80d90bd.svg)](https://wakatime.com/@b5c44ac9-032b-4e67-a6d5-1044b80d90bd)
 
 ---
 
@@ -38,3 +37,4 @@
 ### :fire: My Stats :
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kalynstricklin&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Kalyn's GitHub stats](https://github-readme-stats.vercel.app/api?username=kalynstricklin&count_private=true&show_icons=true&theme=vue-dark)](https://github.com/Osalumense)
