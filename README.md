@@ -12,9 +12,9 @@
   <a href="https://www.linkedin.com/in/kalyn-stricklin-46451a279/">
   <img src="https://img.shields.io/badge/LinkedIn-pink?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.instagram.com/ka7yn/">
+<!--   <a href="https://www.instagram.com/ka7yn/">
   <img src="https://img.shields.io/badge/Instagram-pink?logo=instagram&logoColor=white&style=for-the-badge" alt="Instagram Badge"/>
-  </a>
+  </a> -->
 <img src="https://komarev.com/ghpvc/?username=kalynstricklin&style=flat-square&color=blue" alt=""/>
   <h1>
     Hey there!
@@ -25,7 +25,7 @@
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### 🧰: Languages and Tools :
 <div>
    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
@@ -34,7 +34,7 @@
 </div>
 
 ---
-### :fire: My Stats :
+### 💚: My Stats :
 
 [![Kalyn's GitHub stats](https://github-readme-stats.vercel.app/api?username=kalynstricklin&count_private=true&show_icons=true&theme=vue-dark)](https://github.com/Osalumense)
 
